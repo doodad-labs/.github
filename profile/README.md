@@ -6,7 +6,7 @@ Doodad Labs collects, normalises and publishes cyber security data from across t
 
 It's built for anyone, from solo researchers and students to SOC teams and large organisations. The data is free to use, with little to no limits.
 
-[Website](https://doodadlabs.org) · [Hoard CTI](https://hoardcti.com) · [Donations](https://github.com/sponsors/NotReeceHarris) · [Contact](mailto:support@doodadlabs.org)
+[Website](https://doodadlabs.org) · [Hoard CTI](https://hoardcti.com) · [Donate](https://github.com/sponsors/NotReeceHarris) · [Contact](mailto:support@doodadlabs.org)
 
 ---
 
